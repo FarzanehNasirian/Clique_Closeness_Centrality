@@ -5,8 +5,8 @@ Given a graph $G=(V,E)$ and a pair of nodes $i,j\in V$, let $d_{ij}$ denote the 
 
 Given a vertex $i\in V\setminus S$, let $\delta(i,S)=\min_{j\in S}d_{ij}$ denote the distance of vertex $i$ to set $S$. Then, 
 
-(a) maximum-distance-closeness centrality of $S$ is $C_m(S)=max_{i\in V\setminus S}\delta(i,S)$, and
-(b) total-distance-closeness centrality of S is $C_t(S)=\sum_{i\in V\setminus S}\delat(i,S)$
+//(a) maximum-distance-closeness centrality of $S$ is $C_m(S)=max_{i\in V\setminus S}\delta(i,S)$, and $\n$
+(b) total-distance-closeness centrality of S is $C_t(S)=\sum_{i\in V\setminus S}\delta(i,S)$//
 
 An example of max-disatance-closeness-central clique is illustrated below where 
 
