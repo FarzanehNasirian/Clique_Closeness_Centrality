@@ -1,2 +1,2 @@
-# Clique_Closeness_Centrality
- Clique Closeness Centrality
+:----------------------------------------------------: | :----------------------------------------------------:
+![max_distance_closeness_central_clique](max_distance_closeness_central_clique.svg) | ![total_distance_closeness_central_clique](total_distance_closeness_central_clique.svg)
