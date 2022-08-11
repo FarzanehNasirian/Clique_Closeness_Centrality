@@ -13,3 +13,7 @@ An example of max-disatance-closeness-central clique is illustrated below. The n
 
 Highlighted nodes and edges is a clique with the smallest total-distance-closeness centrality in the network.
 ![total_distance_closeness_central_clique](total_distance_closeness_central_clique.svg)
+
+
+#How to use?
+Follow the instructions in _Examples.ipynb_
