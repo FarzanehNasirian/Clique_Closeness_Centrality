@@ -1,4 +1,4 @@
-#Clique Closeness Centrality
+# Clique Closeness Centrality
 
 This repository has the python modules of two combinatorial algorithms proposed by [Nasirian et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0377221719309464) for identifying max- and total-disatance-closeness-central cliques. 
 Given a graph $G=(V,E)$ and a pair of nodes $i,j\in V$, let $d_{ij}$ denote the distance between $i$ and $j$ in $G$. Then, the maximum- and total-distance- closeness centralities of a set $S\subseteq V$ are defined as follows. Given a vertex $i\in V\setminus S$, let $\delta(i,S)=\min_{j\in S}d_{ij}$ denote the distance of vertex $i$ to set $S$. Then, 
@@ -15,5 +15,5 @@ Highlighted nodes and edges is a clique with the smallest total-distance-closene
 ![total_distance_closeness_central_clique](total_distance_closeness_central_clique.svg)
 
 
-#How to use?
+# How to use?
 Follow the instructions in _Examples.ipynb_
